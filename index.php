@@ -6,7 +6,7 @@
 $t = date("H");
 
 if ($t < "20") {
-  echo "new date with new day";
+  echo "new date with new day & new year";
 }
 ?>
  
